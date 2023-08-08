@@ -1,0 +1,52 @@
+.nav {
+    width: 73%;
+    background-color: lightgrey;
+    padding: 1%;
+}
+
+.nav ul{
+    display: inline-block;
+    width: 50%;
+    margin-left: auto;
+    vertical-align:top;
+}
+
+.navli {
+    vertical-align: top;
+}
+
+.inline-block {
+    
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .heroImg {
+    width: 500px;
+    height: 600px;
+    padding: 25px;
+     
+    background-image: url(images\RK.jpg);
+    
+    
+  }
+  
+  .logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+    
+        
+  }
+
+  .footer{
+    height: 75px;
+    width: 100% ;
+    background-color: #373738;
+    text-align: center;
+  }
+
+  .content{
+    width:500px;
+    margin:0 auto
+  }
